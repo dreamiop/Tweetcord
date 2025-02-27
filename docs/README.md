@@ -43,7 +43,7 @@ Tweetcord is a Discord bot that leverages the [tweety-ns module](https://github.
 
 | Parameter | Type | Description |
 | --------- | ---- | ----------- |
-| `username` | str | The username of the twitter user you want to turn on notifications for |
+| `username` | str | elon|
 | `channel` | discord.TextChannel | The channel to which the bot delivers notifications |
 | `mention` | discord.Role | The role to mention when notifying |
 | `type` | str | Whether to enable notifications for retweets & quotes |
